@@ -33,6 +33,6 @@ class UserRepositoryTest {
                         .build();
 
         User newuser = userRepository.save(user);
-
+        System.out.println("newuser = " + newuser);
     }
 }
