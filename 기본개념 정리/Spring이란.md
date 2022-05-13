@@ -70,3 +70,10 @@
 - Texi는 구현대상 (아반떼, 소나타, 그랜저)의 내부를 알 필요가 없다.
 - Texi 드라이버는 구현대상의 내부 구조가 변경되어도 영향을 받지 않는다.
 - Texi 드라이버는 구현대상 자체를 변경하여도 영향을 받지 않음.   
+<br>
+
+🙆‍♂️ 참고 자료 🙇‍♂️
+
+https://velog.io/@sorzzzzy/Spring-Boot2-1-1.-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EA%B3%BC-%EC%8A%A4%ED%94%84%EB%A7%81
+
+https://velog.io/@won-developer/JAVA-%EB%8B%A4%ED%98%95%EC%84%B1%EC%9D%B4%EB%9E%80
