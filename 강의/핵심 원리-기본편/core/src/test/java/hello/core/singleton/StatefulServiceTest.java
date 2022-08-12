@@ -32,7 +32,7 @@ class StatefulServiceTest {
         //Assertions.assertThat(statefulService1.getPrice()).isEqualTo(20000);
     }
 
-     static class TestConfig {
+     static class  TestConfig {
 
         @Bean
          public StatefulService statefulService() {
